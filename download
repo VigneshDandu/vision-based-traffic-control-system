@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Keep these files tracked
+!.gitignore
+!main.py
+!congestion_calculator.py
+!requirements.txt
+
